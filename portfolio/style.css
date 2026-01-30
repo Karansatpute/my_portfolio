@@ -794,11 +794,11 @@ noscript {
     }
 }
 
-#info-para br {
+#info-para {
     width: 80%;
-    padding-top: 30px;
+    padding-top: 20px;
     color: var(--color-ddd-color);
-    line-height: 25px
+    line-height: 1.8;
 }
 
 .contact-btn-div {
