@@ -794,7 +794,7 @@ noscript {
     }
 }
 
-#info-para br {
+#info-para {
     width: 75%;
     padding-top: 30px;
     color: var(--color-ddd-color);
